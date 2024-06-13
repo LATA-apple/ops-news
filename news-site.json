@@ -1,0 +1,74 @@
+[
+    {
+        "url": "https://www.apple.com/newsroom/rss-feed.rss",
+        "sitename": "Apple newsroom (US)"
+    },
+    {
+        "url": "https://www.apple.com/jp/newsroom/rss-feed.rss",
+        "sitename": "Apple newsroom (JP)"
+    },
+    {
+        "url": "https://iphone-mania.jp/feed/",
+        "sitename": "iPhone Mania"
+    },
+    {
+        "url": "http://www.macrumors.com/macrumors.xml",
+        "sitename": "MacRumors"
+    },
+    {
+        "url": "https://9to5mac.com/rss/",
+        "sitename": "9to5Mac"
+    },
+    {
+        "url": "https://appleinsider.com/rss/news",
+        "sitename": "AppleInsider"
+    },
+    {
+        "url": "https://gori.me/feed",
+        "sitename": "ゴリミー"
+    },
+    {
+        "url": "https://corriente.top/feed/",
+        "sitename": "CoRRiENTE.top"
+    },
+    {
+        "url": "https://applekyo.com/feed/",
+        "sitename": "Apple教 情報サイト"
+    },
+    {
+        "url": "https://arigato-ipod.com/feed",
+        "sitename": "アイアリ"
+    },
+    {
+        "url": "https://rss.itmedia.co.jp/rss/2.0/kw_apple.xml",
+        "sitename": "ITmedia"
+    },
+    {
+        "url": "https://www.danshihack.com/feed/rss",
+        "sitename": "男子ハック"
+    },
+    {
+        "url": "https://www.macotakara.jp/rss2.xml",
+        "sitename": "Mac OTAKARA"
+    },
+    {
+        "url": "https://gadgetouch.com/feed/",
+        "sitename": "Gadgetouch"
+    },
+    {
+        "url": "https://k-tai.watch.impress.co.jp/data/rss/1.0/ktw/feed.rdf",
+        "sitename": "ケータイ Watch"
+    },
+    {
+        "url": "https://taisy0.com/feed",
+        "sitename": "気になる、記になる…"
+    },
+    {
+        "url": "https://ascii.jp/rss.xml",
+        "sitename": "アスキー"
+    },
+    {
+        "url": "https://www.gizmodo.jp/index.xml",
+        "sitename": "GIZMODO"
+    }
+]
